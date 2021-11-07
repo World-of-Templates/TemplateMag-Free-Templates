@@ -20,7 +20,7 @@ Multipurpose Bootstrap Template | Personal Bootstrap Template
 Clef | Benedict
 --- | ---
 [![Clef](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Clef.png)](https://template.fusionsvisual.id/TM/Clef) | [![Benedict](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Benedict.png)](https://template.fusionsvisual.id/TM/Benedict)
-Bdnd, DJ, or Music Producer HTML Template | Creative Side Navigation Blog/Portfolio Template
+Band, DJ, or Music Producer HTML Template | Creative Side Navigation Blog/Portfolio Template
 
 Ello | Grace
 --- | ---
