@@ -1,0 +1,319 @@
+/**
+*  Template Name: SimpleLanding
+*  Template URL: https://templatemag.com/simplelanding-bootstrap-landing-page-template/
+*  Author: TemplateMag.com
+*  License: https://templatemag.com/license/
+*/
+
+
+body {
+  padding-top: 50px;
+  font-family: 'Lato', sans-serif;
+  background-color: #d5d5d5;
+}
+
+.navbar-brand {
+	font-weight: 900;
+	text-transform: uppercase;
+	font-size: 16px;
+}
+
+.navbar-inverse {
+	background-color: #232323;
+	border: 0px;
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.mt-main {
+	margin-top: 120px;
+}
+
+.mt-row {
+	margin-top: 60px;
+}
+
+#headerwrap {
+	background-color: #232323;
+	width: 100%;
+	min-height: 700px;
+	color: white;
+	text-align: center;
+	padding-top: 120px;
+}
+
+#headerwrap h1 {
+	font-weight: 100;
+	font-size: 70px;
+}
+
+#headerwrap h2 {
+	color: #777777;
+	font-size: 28px;
+	font-weight: 300;
+}
+
+#headerwrap .gobottom {
+	bottom: 0 !important;
+	margin-bottom: 0px;
+}
+
+#secondwrap {
+	width: 100%;
+	color: #2f2f2f;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: #ffffff;
+	text-align: center;
+}
+
+#secondwrap h2 {
+	font-weight: 300;
+	font-size: 34px;
+}
+
+#secondwrap h5 {
+	font-weight: 900;
+}
+
+#secondwrap p {
+	font-weight: 300;
+	font-size: 16px;
+}
+
+.linewrap {
+	border-left: 2px #ddd solid;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-bottom: 40px;
+}
+
+.linewrap:hover {
+	border-left: 2px #222222 solid;
+	cursor: pointer;
+}
+
+.mtop {
+	margin-top: 50px;
+}
+.goleft {
+	text-align: left;
+}
+
+#spacerwrap {
+	width: 100%;
+	min-height: 400px;
+	padding-top: 100px;
+	color: white;
+	background-image: url(../img/spacer.jpg);
+	text-align: center;
+}
+
+#spacerwrap h2 {
+	color: white;
+	font-weight: 100;
+	font-size: 40px;
+}
+#spacerwrap h4 {
+	color: #777777;
+	font-weight: 400;
+	font-size: 18px;
+}
+
+#finalwrap {
+	padding-top: 100px;
+	padding-bottom: 100px;
+	background-color: #f4f4f4;
+	color: #2f2f2f;
+}
+
+#finalwrap h1 {
+	font-weight: 300;
+	font-size: 48px;
+}
+
+#finalwrap h3 {
+	font-weight: 300;
+	font-size: 24px;
+}
+
+/* FORM CONFIGURATION */
+
+input {
+	font-size: 16px;
+	min-height: 40px;
+	border-radius: 25px;
+	line-height: 20px;
+	padding: 11px 30px 12px;
+	border: 1px solid #b9b9af;
+	margin-bottom: 10px;
+	background-color: #fff;
+	-webkit-transition: background-color 0.2s;
+	transition: background-color 0.2s;
+}
+
+.subscribe-input {
+	float: left;
+	width: 65%;
+	text-align: left;
+	margin-right: 2px;
+}
+
+.subscribe-submit {
+	right: 0;
+}
+
+
+/*Buttons Configuration */
+
+.btn-conf-2 {
+	border-radius: 50px;
+	margin-right: 15px;
+	font-size: 14px;
+	font-weight: 300;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	padding: 14px 28px 13px 28px;
+	}
+
+.btn-yellow {
+	background: #F7CA18;
+	color: white
+}
+
+
+/* Contact Form */
+
+#get-in-touch {
+  background: #fff;
+  padding: 80px 0;
+}
+
+#get-in-touch h1 {
+  font-weight: 300;
+  font-size: 48px;
+}
+
+#get-in-touch h3 {
+  font-weight: 300;
+  font-size: 24px;
+  margin-bottom: 30px;
+}
+
+
+.contact-form {
+  text-align: left;
+}
+
+.contact-form input, .contact-form textarea {
+  padding: 10px 12px;
+  border-radius: 0;
+  box-shadow: none;
+  font-size: 14px;
+  height: auto;
+}
+
+.contact-form .form-send {
+  text-align: center;
+}
+
+.contact-form .form-send button  {
+  background: #F7CA18;
+  border: 0;
+  padding: 15px 50px;
+  color: #fff;
+  transition: 0.4s;
+  cursor: pointer;
+  border-radius: 50px;
+}
+
+.contact-form .form-send button:hover {
+  color: #111;
+}
+
+.contact-form .validate {
+  display: none;
+  color: red;
+  margin: 0 0 15px 0;
+  font-weight: 400;
+  font-size: 13px;
+}
+
+.contact-form .loading {
+  display: none;
+  color: #555;
+  background: #fff;
+  text-align: center;
+  padding: 15px;
+  margin: 15px 0;
+}
+
+.contact-form .loading:before {
+  content: "";
+  display: inline-block;
+  border-radius: 50%;
+  width: 24px;
+  height: 24px;
+  border: 3px solid #18d26e;
+  border-top-color: #eee;
+  -webkit-animation: animate-loading 1s linear infinite;
+  animation: animate-loading 1s linear infinite;
+}
+
+@-webkit-keyframes animate-loading {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes animate-loading {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+.contact-form .error-message {
+  display: none;
+  color: #fff;
+  background: #ed3c0d;
+  text-align: center;
+  padding: 15px;
+  font-weight: 600;
+  margin: 15px 0;
+}
+
+.contact-form .sent-message {
+  display: none;
+  color: #fff;
+  background: #18d26e;
+  text-align: center;
+  padding: 15px;
+  font-weight: 600;
+  margin: 15px 0;
+}
+
+/* Footer */
+
+#footer {
+  background: #f4f4f4;
+  padding: 20px 0;
+}
+
+#copyrights {
+  text-align: center;
+}

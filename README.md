@@ -151,3 +151,18 @@ NexusLanding | NewFirm
 --- | ---
 [![NexusLanding](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/NexusLanding.png)](https://template.fusionsvisual.id/TM/NexusLanding) | [![NewFirm](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/NewFirm.png)](https://template.fusionsvisual.id/TM/NewFirm)
 Bootstrap Landing Page Template | Bootstrap Business Template
+
+Munter | Victoria
+--- | ---
+[![Munter](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Munter.png)](https://template.fusionsvisual.id/TM/Munter) | [![Victoria](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Victoria.png)](https://template.fusionsvisual.id/TM/Victoria)
+Bootstrap One Page Template | Bootstrap VCard Template
+
+SimpleLanding | Onassis
+--- | ---
+[![SimpleLanding](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/SimpleLanding.png)](https://template.fusionsvisual.id/TM/SimpleLanding) | [![Onassis](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Onassis.png)](https://template.fusionsvisual.id/TM/Onassis)
+Bootstrap Landing Page Template | Bootstrap Agency Template
+
+Kelvin | Pratt
+--- | ---
+[![Kelvin](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Kelvin.png)](https://template.fusionsvisual.id/TM/Kelvin) | [![Pratt](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Pratt.png)](https://template.fusionsvisual.id/TM/Pratt)
+Bootstrap Resume Template | Bootstrap App Landing Page Template
