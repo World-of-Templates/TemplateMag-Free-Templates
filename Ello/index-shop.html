@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="assets/img/icon/favicon.ico">
+    <link rel="apple-touch-icon" sizes="144x144" href="assets/img/icon/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="assets/img/icon/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="assets/img/icon/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" href="assets/img/icon/apple-touch-icon-57x57.png">
+
+    <title>Ello by Distinctive Themes</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->    
+    <link href="assets/css/cubeportfolio.css" rel="stylesheet">
+    <link href="assets/css/font-awesome.min.css" rel="stylesheet">
+    <link href="assets/css/plugins.css" rel="stylesheet">
+    <link href="assets/css/pe-icons.css" rel="stylesheet">
+    <link href="assets/css/animate.css" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
+
+    <script src="assets/js/jquery.min.js"></script>
+
+    <script type="text/javascript">
+    $(document).ready(function(){
+       'use strict';
+        jQuery('#headerwrap').backstretch([
+          "assets/img/bg/bg-shop.jpg",
+          "assets/img/bg/bg-resume.jpg"
+        ], {duration: 8000, fade: 800});
+    });
+    </script>
+</head>
+
+<body>
+
+    <div class="preloader">
+        <div class="preloader-img">
+        	<img src="assets/img/loading-spin.svg" width="100" alt="Loading icon" />
+        </div>
+    </div>
+
+    <div id="searchwrapper" class="sb-slide">
+    	<div class="container">
+	    	<div id="search">
+			    <button type="button" class="close">×</button>
+			    <form>
+			        <input type="search" value="" placeholder="type keyword(s) here" />
+			        <button type="submit"><i class="fa fa-search"></i></button>
+			    </form>
+			</div>
+    	</div>
+    </div>
+
+    <div id="main-navigation" class="navbar navbar-inverse navbar-fixed-top smoothtransition fadeInDown sb-slide" data-wow-delay="1s" role="navigation">
+        <div class="container smoothtransition">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <h2><a class="navbar-brand" href="index.html">ELLO</a></h2>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Home <span class="pe-7s-angle-down"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="index.html">Home Agency</a></li>
+                            <li><a href="index-blog.html">Home Blog</a></li>
+                            <li><a href="index-resume.html">Home Resume</a></li>
+                            <li><a href="index-portfolio.html">Home Video</a></li>
+                            <li><a href="index-shop.html">Home Shop</a></li>
+                            <li><a href="index-app.html">Home App Landing</a></li>
+                            <li><a href="index-singlepage.html">Home Single Page</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Blog <span class="pe-7s-angle-down"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="category-grid.html">Category Grid</a></li>
+                            <li><a href="category-traditional.html">Category Traditional</a></li>
+                            <li><a href="single-post.html">Single Post</a></li>
+                            <li><a href="single-post-fullwidth.html">Single Post Fullwidth</a></li>
+                            <li><a href="single-post-sidebar.html">Single Post Sidebar</a></li>
+                            <li><a href="single-post-gallery.html">Single Post Gallery</a></li>
+                            <li><a href="single-post-lightbox-gallery.html">Single Post Lightbox Gallery</a></li>
+                            <li><a href="single-post-video.html">Single Post Video</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Portfolio <span class="pe-7s-angle-down"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="portfolio-grid.html">Portfolio Grid</a></li>
+                            <li><a href="single-portfolio.html">Single Portfolio</a></li>
+                            <li><a href="single-portfolio-video.html">Single Portfolio Video</a></li>
+                            <li><a href="single-portfolio-large.html">Single Portfolio Fullscreen</a></li>
+                            <li><a href="single-portfolio-video-large.html">Single Portfolio Fullscreen Video</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Shop <span class="pe-7s-angle-down"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="index-shop.html">Shop</a></li>
+                            <li><a href="single-product.html">Single Product</a></li>
+                            <li><a href="shopping-cart.html">Shopping Cart</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Pages <span class="pe-7s-angle-down"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="404.html">404</a></li>
+                            <li><a href="coming-soon.html">Coming Soon</a></li>
+                            <li><a href="login.html">Login</a></li>
+                            <li><a href="contact-us.html">Contact Us</a></li>
+                        </ul>
+                    </li>
+
+                    <li><a id="searchtrigger" href="#"><i class="fa fa-search"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+	<header id="headerwrap" class="fullscreen">
+        <div class="vertical-center">
+    		<div class="container">
+    			<div class="row">
+    			    <div class="col-md-12">
+    			    	<h3 class="fancy wow fadeInDown" data-wow-delay="1.5s"><span><strong>SOMETHING A LITTLE DIFFERENT</strong></span></h3>
+                        <h1 class="mb30 wow fadeInUp" data-wow-delay="2s">WELCOME TO ELLO</h1>
+                        <a class="page-scroll btn btn-theme btn-lg btn-white wow fadeInUp" data-wow-delay="2.5s" href="#about-us">Take A Look</a>
+    			    </div>
+    			</div>
+    		</div>
+        </div>
+	</header>
+	
+	<section class="white section-wrapper"> 
+		<div class="section-inner">
+			<div class="container">            
+				<div class="row">
+					<div class="col-lg-8 wow fadeInLeft" data-wow-delay="0.5s">
+						<div class="row">
+							<ul class="owl-carousel-paged wow fadeInUp list-unstyled" data-items="2" data-items-tablet="[768,2]"  data-items-mobile="[479,1]">
+								<li class="shop-item wow fadeInUp">
+									<figure class="hover-item">
+										<img src="assets/img/shop/shop1.jpg" class="img-responsive" alt="image">
+										<figcaption>
+											<h2>
+												<span class="glyphicon glyphicon-star"></span>
+												<span class="glyphicon glyphicon-star"></span>
+												<span class="glyphicon glyphicon-star"></span>
+												<span class="glyphicon glyphicon-star"></span>
+												<span class="glyphicon glyphicon-star"></span>
+											</h2>
+											<p class="icon-links">
+												<a href="single-post.html" ><span class="fa fa-link"></span></a>
+											</p>
+										</figcaption>			
+									</figure>
+									<div class="item-excerpt arrow-top col-xs-12">
+										<h4 class="pull-right">$24.99</h4>						
+										<h4><a href="#">Slim-Fit Shirt</a></h4>
+										<p>Taste oh spoke about no solid of hills up shade. Occasion so bachelor humoured striking by attended doubtful be it.</p>
+										<div class="item-metas smoothtransition">
+											<div>
+												<strong class="colour-hover"><i class="fa fa-comment"></i> 4</strong>
+												<strong class="pull-right colour-hover"><a href="single-post.html" data-toggle="tooltip" data-placement="left" title="View Article"><i class="fa fa-link"></i></a></strong>
+											</div>
+										</div>						
+									</div>
+								</li>
+								<li class="shop-item wow fadeInUp">
+									<figure class="hover-item">
+										<img src="assets/img/shop/shop1.jpg" class="img-responsive" alt="image">
+										<figcaption>
+											<h2>
+												<span class="glyphicon glyphicon-star"></span>
+												<span class="glyphicon glyphicon-star"></span>
+												<span class="glyphicon glyphicon-star"></span>
+												<span class="glyphicon glyphicon-star"></span>
+												<span class="glyphicon glyphicon-star"></span>
+											</h2>
+											<p class="icon-links">
+												<a href="single-post.html" ><span class="fa fa-link"></span></a>
+											</p>
+										</figcaption>			
+									</figure>
+									<div class="item-excerpt arrow-top col-xs-12">
+										<h4 class="pull-right">$24.99</h4>						
+										<h4><a href="#">Slim-Fit Shirt</a></h4>
+										<p>Taste oh spoke about no solid of hills up shade. Occasion so bachelor humoured striking by attended doubtful be it.</p>
+										<div class="item-metas smoothtransition">
+											<div>
+												<strong class="colour-hover"><i class="fa fa-comment"></i> 4</strong>
+												<strong class="pull-right colour-hover"><a href="single-post.html" data-toggle="tooltip" data-placement="left" title="View Article"><i class="fa fa-link"></i></a></strong>
+											</div>
+										</div>						
+									</div>
+								</li>
+								<li class="shop-item wow fadeInUp">
+									<figure class="hover-item">
+										<img src="assets/img/shop/shop1.jpg" class="img-responsive" alt="image">
+										<figcaption>
+											<h2>
+												<span class="glyphicon glyphicon-star"></span>
+												<span class="glyphicon glyphicon-star"></span>
+												<span class="glyphicon glyphicon-star"></span>
+												<span class="glyphicon glyphicon-star"></span>
+												<span class="glyphicon glyphicon-star"></span>
+											</h2>
+											<p class="icon-links">
+												<a href="single-post.html" ><span class="fa fa-link"></span></a>
+											</p>
+										</figcaption>			
+									</figure>
+									<div class="item-excerpt arrow-top col-xs-12">
+										<h4 class="pull-right">$24.99</h4>						
+										<h4><a href="#">Slim-Fit Shirt</a></h4>
+										<p>Taste oh spoke about no solid of hills up shade. Occasion so bachelor humoured striking by attended doubtful be it.</p>
+										<div class="item-metas smoothtransition">
+											<div>
+												<strong class="colour-hover"><i class="fa fa-comment"></i> 4</strong>
+												<strong class="pull-right colour-hover"><a href="single-post.html" data-toggle="tooltip" data-placement="left" title="View Article"><i class="fa fa-link"></i></a></strong>
+											</div>
+										</div>						
+									</div>
+								</li>
+								<li class="shop-item wow fadeInUp">
+									<figure class="hover-item">
+										<img src="assets/img/shop/shop1.jpg" class="img-responsive" alt="image">
+										<figcaption>
+											<h2>
+												<span class="glyphicon glyphicon-star"></span>
+												<span class="glyphicon glyphicon-star"></span>
+												<span class="glyphicon glyphicon-star"></span>
+												<span class="glyphicon glyphicon-star"></span>
+												<span class="glyphicon glyphicon-star"></span>
+											</h2>
+											<p class="icon-links">
+												<a href="single-post.html" ><span class="fa fa-link"></span></a>
+											</p>
+										</figcaption>			
+									</figure>
+									<div class="item-excerpt arrow-top col-xs-12">							
+										<h4 class="pull-right">$24.99</h4>						
+										<h4><a href="#">Slim-Fit Shirt</a></h4>
+										<p>Taste oh spoke about no solid of hills up shade. Occasion so bachelor humoured striking by attended doubtful be it.</p>
+										<div class="item-metas smoothtransition">
+											<div>
+												<strong class="colour-hover"><i class="fa fa-comment"></i> 4</strong>
+												<strong class="pull-right colour-hover"><a href="single-post.html" data-toggle="tooltip" data-placement="left" title="View Article"><i class="fa fa-link"></i></a></strong>
+											</div>
+										</div>						
+									</div>
+								</li>
+								<li class="shop-item wow fadeInUp">
+									<figure class="hover-item">
+										<img src="assets/img/shop/shop1.jpg" class="img-responsive" alt="image">
+										<figcaption>
+											<h2>
+												<span class="glyphicon glyphicon-star"></span>
+												<span class="glyphicon glyphicon-star"></span>
+												<span class="glyphicon glyphicon-star"></span>
+												<span class="glyphicon glyphicon-star"></span>
+												<span class="glyphicon glyphicon-star"></span>
+											</h2>
+											<p class="icon-links">
+												<a href="single-post.html" ><span class="fa fa-link"></span></a>
+											</p>
+										</figcaption>			
+									</figure>
+									<div class="item-excerpt arrow-top col-xs-12">
+										<h4 class="pull-right">$24.99</h4>						
+										<h4><a href="#">Slim-Fit Shirt</a></h4>
+										<p>Taste oh spoke about no solid of hills up shade. Occasion so bachelor humoured striking by attended doubtful be it.</p>
+										<div class="item-metas smoothtransition">
+											<div>
+												<strong class="colour-hover"><i class="fa fa-comment"></i> 4</strong>
+												<strong class="pull-right colour-hover"><a href="single-post.html" data-toggle="tooltip" data-placement="left" title="View Article"><i class="fa fa-link"></i></a></strong>
+											</div>
+										</div>						
+									</div>
+								</li>
+								<li class="shop-item wow fadeInUp">
+									<figure class="hover-item">
+										<img src="assets/img/shop/shop1.jpg" class="img-responsive" alt="image">
+										<figcaption>
+											<h2>
+												<span class="glyphicon glyphicon-star"></span>
+												<span class="glyphicon glyphicon-star"></span>
+												<span class="glyphicon glyphicon-star"></span>
+												<span class="glyphicon glyphicon-star"></span>
+												<span class="glyphicon glyphicon-star"></span>
+											</h2>
+											<p class="icon-links">
+												<a href="single-post.html" ><span class="fa fa-link"></span></a>
+											</p>
+										</figcaption>			
+									</figure>
+									<div class="item-excerpt arrow-top col-xs-12">
+										<h4 class="pull-right">$24.99</h4>						
+										<h4><a href="#">Slim-Fit Shirt</a></h4>
+										<p>Taste oh spoke about no solid of hills up shade. Occasion so bachelor humoured striking by attended doubtful be it.</p>
+										<div class="item-metas smoothtransition">
+											<div>
+												<strong class="colour-hover"><i class="fa fa-comment"></i> 4</strong>
+												<strong class="pull-right colour-hover"><a href="single-post.html" data-toggle="tooltip" data-placement="left" title="View Article"><i class="fa fa-link"></i></a></strong>
+											</div>
+										</div>						
+									</div>
+								</li>
+							</ul>		  
+						</div> 
+					</div>
+
+					<div id="main-sidebar" class="col-md-3 col-md-offset-1 divider-wrapper wow fadeInRight" data-wow-delay="0.5s">
+                        <div>
+                            <div class="widget">
+                            <h4 class="widget-title"><strong>Latest</strong> Products</h4>
+                                <div>
+                                    <div class="media">
+                                        <div class="pull-left">
+                                            <img class="widget-img" src="assets/img/widget/widget1.jpg" alt="">
+                                        </div>
+                                        <div class="media-body">
+                                            <span class="media-heading"><a class="coloured" href="#">Cool T-Shirt</a></span>
+                                            <div class="muted">
+                                                <ul class="list-unstyled">                                                	
+                                                    <li><a href="#" title="">$14.99</a></li>
+                                                    <li>
+                                                    	<span class="glyphicon glyphicon-star"></span>
+														<span class="glyphicon glyphicon-star"></span>
+														<span class="glyphicon glyphicon-star"></span>
+														<span class="glyphicon glyphicon-star"></span>
+														<span class="glyphicon glyphicon-star"></span>
+													</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="media">
+                                        <div class="pull-left">
+                                            <img class="widget-img" src="assets/img/widget/widget2.jpg" alt="">
+                                        </div>
+                                        <div class="media-body">
+                                            <span class="media-heading"><a class="coloured" href="#">Nice Jeans</a></span>
+                                            <div class="muted">
+                                                <ul class="list-unstyled">                                                	
+                                                    <li><a href="#" title="">$14.99</a></li>
+                                                    <li>
+                                                    	<span class="glyphicon glyphicon-star"></span>
+														<span class="glyphicon glyphicon-star"></span>
+														<span class="glyphicon glyphicon-star"></span>
+														<span class="glyphicon glyphicon-star"></span>
+														<span class="glyphicon glyphicon-star"></span>
+													</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="media">
+                                        <div class="pull-left">
+                                            <img class="widget-img" src="assets/img/widget/widget3.jpg" alt="">
+                                        </div>
+                                        <div class="media-body">
+                                            <span class="media-heading"><a class="coloured" href="#">Snazzy Hat</a></span>
+                                            <div class="muted">
+                                                <ul class="list-unstyled">                                                	
+                                                    <li><a href="#" title="">$14.99</a></li>
+                                                    <li>
+                                                    	<span class="glyphicon glyphicon-star"></span>
+														<span class="glyphicon glyphicon-star"></span>
+														<span class="glyphicon glyphicon-star"></span>
+														<span class="glyphicon glyphicon-star"></span>
+														<span class="glyphicon glyphicon-star"></span>
+													</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="media">
+                                        <div class="pull-left">
+                                            <img class="widget-img" src="assets/img/widget/widget4.jpg" alt="">
+                                        </div>
+                                        <div class="media-body">
+                                            <span class="media-heading"><a class="coloured" href="#">Warm Socks</a></span>
+                                            <div class="muted">
+                                                <ul class="list-unstyled">                                                	
+                                                    <li><a href="#" title="">$14.99</a></li>
+                                                    <li>
+                                                    	<span class="glyphicon glyphicon-star"></span>
+														<span class="glyphicon glyphicon-star"></span>
+														<span class="glyphicon glyphicon-star"></span>
+														<span class="glyphicon glyphicon-star"></span>
+														<span class="glyphicon glyphicon-star"></span>
+													</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+				</div>
+			</div>
+		</div>
+	</section>		
+
+	<section id="social-profiles-fw" class="section-wrapper">
+		<div class="row nopadding">
+			<div class="social-profile smoothtransition col-xs-3 centered twitter-bg">
+				<a href="#" class="wow fadeInUp"><i class="fa fa-twitter"></i></a>
+			</div>
+			<div class="social-profile smoothtransition col-xs-3 centered facebook-bg">
+				<a href="#" class="wow fadeInUp"><i class="fa fa-facebook"></i></a>
+			</div>
+			<div class="social-profile smoothtransition col-xs-3 centered gplus-bg">
+				<a href="#" class="wow fadeInUp"><i class="fa fa-google-plus"></i></a>
+			</div>
+			<div class="social-profile smoothtransition col-xs-3 centered dribbble-bg">
+				<a href="#" class="wow fadeInUp"><i class="fa fa-dribbble"></i></a>
+			</div>
+		</div>
+	</section>
+
+   <footer id="footerwrap">
+        <div class="section-inner">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-3 col-sm-6">
+                        <div class="widget about-us-widget">
+                            <h4 class="widget-title"><strong>Global</strong> Coverage</h4>
+                            <p>Was drawing natural fat respect husband. An as noisy an offer drawn blush place. These tried for way joy wrote witty. In mr began music weeks after at begin.</p>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3 col-sm-6">
+                        <div class="widget">
+                            <h4 class="widget-title"><strong>Recent</strong> Tweets</h4>
+                            <script type="text/javascript">
+                            jQuery(function($) {
+                                $('.twitter-feed').twittie({
+                                    username: 'DistinctThemes',
+                                    apiPath: 'twitter/tweet.php',
+                                    dateFormat: '%b. %d, %Y',
+                                    template: '<div class="row"><div class="col-xs-3 nopaddingright">{{avatar}}</div><div class="col-xs-9"><p>{{tweet}}</p></div></div>',
+                                    count: 10
+                                }, function () {
+                                    setInterval(function() {
+                                        var item = $('.twitter-feed ul').find('li:first');
+                                        item.animate( {marginLeft: '0px', 'opacity': '0'}, 500, function() {
+                                            $(this).detach().appendTo('.twitter-feed ul').removeAttr('style');
+                                        });
+                                    }, 8000);
+                                    jQuery('.twitter-feed li img').attr('src', function(i, src) {
+                                        return src.replace( '_normal', '' );
+                                    }); 
+                                });
+                             });
+                            </script>
+                            <div class="twitter-feed"></div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3 col-sm-6">
+                        <div class="widget">
+                            <h4 class="widget-title"><strong>Latest</strong> Articles</h4>
+                            <div>
+                                <div class="media">
+                                    <div class="pull-left">
+                                        <img class="widget-img" src="assets/img/widget/widget1.jpg" alt="">
+                                    </div>
+                                    <div class="media-body">
+                                        <span class="media-heading"><a href="#">Blog Post A</a></span>
+                                        <small class="muted">Posted 14 April 2019</small>
+                                    </div>
+                                </div>
+                                <div class="media">
+                                    <div class="pull-left">
+                                        <img class="widget-img" src="assets/img/widget/widget2.jpg" alt="">
+                                    </div>
+                                    <div class="media-body">
+                                        <span class="media-heading"><a href="#">Blog Post B</a></span>
+                                        <small class="muted">Posted 14 April 2019</small>
+                                    </div>
+                                </div>
+                            </div>  
+                        </div>
+                    </div>
+
+                    <div class="col-md-3 col-sm-6">
+                        <div class="widget">
+                            <h4 class="widget-title"><strong>Latest</strong> Articles</h4>
+                            <div class="tagcloud">
+                                <a href="#" class="tag-link btn btn-theme btn-white btn-xs" title="3 topics">Local</a>
+                                <a href="#" class="tag-link btn btn-theme btn-white btn-xs" title="3 topics">Business</a>
+                                <a href="#" class="tag-link btn btn-theme btn-white btn-xs" title="3 topics">Media</a>
+                                <a href="#" class="tag-link btn btn-theme btn-white btn-xs" title="3 topics">Photogtraphy</a>
+                                <a href="#" class="tag-link btn btn-theme btn-white btn-xs" title="3 topics">Aid</a>
+                                <a href="#" class="tag-link btn btn-theme btn-white btn-xs" title="3 topics">Fashion</a>
+                                <a href="#" class="tag-link btn btn-theme btn-white btn-xs" title="3 topics">News</a>
+                                <a href="#" class="tag-link btn btn-theme btn-white btn-xs" title="3 topics">Cars</a>
+                                <a href="#" class="tag-link btn btn-theme btn-white btn-xs" title="3 topics">Global Affairs</a>
+                                <a href="#" class="tag-link btn btn-theme btn-white btn-xs" title="3 topics">Music</a>
+                                <a href="#" class="tag-link btn btn-theme btn-white btn-xs" title="3 topics">Downloads</a>
+                                <a href="#" class="tag-link btn btn-theme btn-white btn-xs" title="3 topics">MP3</a>
+                            </div> 
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <div id="lowerfooter">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <p>Copyright 2019 | Designed By Distinctive Themes</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+    <script src="assets/js/plugins.js"></script>
+    <script src="assets/js/cubeportfolio.js"></script>
+    <script src="assets/js/init.js"></script>
+  </body>
+</html>

@@ -1,0 +1,20 @@
+.dark-overlay, .dark-overlay.fill-right:after, .dark-overlay.fill-left:after {
+  background-color: rgba(102, 51, 153, 0.8);
+}
+
+.styled-accordion .panel-default>.panel-heading {
+  background-color: #663399;
+}
+
+.carousel-control.left, .carousel-control.right {
+  background: #663399;
+}
+
+.btn-primary {
+    background-color: #663399;
+    border-color: #663399;
+}
+
+a, a:hover {
+    color:  #663399;
+}
