@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="assets/img/ico/favicon.ico">
+    <link rel="apple-touch-icon" sizes="144x144" href="assets/img/ico/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="assets/img/ico/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="assets/img/ico/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" href="assets/img/ico/apple-touch-icon-57x57.png">
+
+    <title>Smash by Distinctive Themes</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/css/animate.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="assets/css/style.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="assets/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/pe-icons.css" rel="stylesheet">
+
+    <!-- jQuery Version 1.11.0 -->
+    <script src="assets/js/jquery.js"></script>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <script type="text/javascript">
+        $(document).ready(function(){
+        jQuery('#headerwrap').backstretch([
+          "http://unsplash.it/1400/800?random=1",
+          "http://unsplash.it/1400/800?random=2",
+          "http://unsplash.it/1400/800?random=3"
+        ], {duration: 8000, fade: 500});
+
+        $("#mapwrapper").gMap({ controls: false,
+            scrollwheel: false,
+            markers: [{     
+                latitude:40.7566,
+                longitude: -73.9863,
+            icon: { image: "assets/img/marker.png",
+                iconsize: [44,44],
+                iconanchor: [12,46],
+                infowindowanchor: [12, 0] } }],
+            icon: { 
+                image: "assets/img/marker.png", 
+                iconsize: [26, 46],
+                iconanchor: [12, 46],
+                infowindowanchor: [12, 0] },
+            latitude:40.7566,
+            longitude: -73.9863,
+            zoom: 14 });
+    });
+    </script>
+
+</head>
+
+<body id="page-top" class="index">
+
+    <div class="preloader">
+        <div class="preloader-img">
+        	<img src="assets/img/loading-bars.svg" width="100" alt="Loading icon" />
+        </div>
+    </div>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-shrink bounceInDown" data-wow-delay="2s">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html">Smash</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-hover="dropdown" data-toggle="dropdown">Home <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="index.html">Home Full</a></li>
+                            <li><a href="index-video.html">Home Video</a></li>
+                            <li><a href="index-onepager.html">Home One Pager</a></li>
+                            <li><a href="index-coming-soon.html">Home Coming Soon</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-hover="dropdown" data-toggle="dropdown">Posts <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="single-post-sidebar.html">Single Post Sidebar</a></li>
+                            <li><a href="single-post-video.html">Single Post Video</a></li>
+                            <li><a href="single-post-gallery.html">Single Post Gallery</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-hover="dropdown" data-toggle="dropdown">Portfolio <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="filterable-portfolio-3-col.html">Filterable Portfolio 3 Columns</a></li>
+                            <li><a href="filterable-portfolio-4-col.html">Filterable Portfolio 4 Columns</a></li>
+                            <li><a href="single-portfolio.html">Single Portfolio</a></li>
+                            <li><a href="single-portfolio-gallery.html">Single Portfolio Gallery</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-hover="dropdown" data-toggle="dropdown">Pages <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="404.html">404</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#search"><i class="pe-7s-search"></i></a></li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    <div id="search-wrapper">
+        <button type="button" class="close">×</button>
+        <form>
+            <input type="search" value="" placeholder="type keyword(s) here" />
+            <button type="submit" class="btn btn-primary">Search</button>
+        </form>
+    </div>
+
+    <!-- Header -->
+    <header id="headerwrap" class="fullheight">
+        <div class="container">
+            <div class="intro-text">
+                <div class="intro-lead-in wow bounceInDown" data-wow-delay="0.5s">We Can Help You <span class="wodry">Create|Design|Profit</span></div>
+                <div class="intro-heading wow bounceInUp" data-wow-delay="1s">SMASHCO <span class="thin">N.Y.C.</span></div>
+                <a href="#about-us" class="page-scroll btn btn-xl btn-negative  wow bounceInDown" data-wow-delay="2s">Tell Me More <i class="fa fa-angle-down fa-2x"></i></a>
+            </div>
+        </div>
+    </header>
+
+    <section>
+        <div class="section-inner">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 wow fadeInLeft" data-wow-delay="0s">
+                        <div id="news-carousel" class="carousel slide carousel-fade" data-ride="carousel">
+                            <div class="carousel-inner">                  
+                                <div class="item active">
+                                    <img class="img-responsive" src="http://unsplash.it/760x400?random=1">
+                                    <div class="carousel-caption">
+                                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.</p>
+                                        <a class="btn btn-primary pull-right" href="#">View</a>
+                                    </div>
+                                </div><!-- End Item -->
+                         
+                                 <div class="item">
+                                    <img class="img-responsive" src="http://unsplash.it/760x400?random=2">
+                                    <div class="carousel-caption">
+                                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.</p>
+                                        <a class="btn btn-primary pull-right" href="#">View</a>
+                                    </div>
+                                </div><!-- End Item -->
+                                
+                                <div class="item">
+                                    <img class="img-responsive" src="http://unsplash.it/760x400?random=3">
+                                   <div class="carousel-caption">
+                                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.</p>
+                                        <a class="btn btn-primary pull-right" href="#">View</a>
+                                    </div>
+                                </div><!-- End Item -->
+                                
+                                <div class="item">
+                                    <img class="img-responsive" src="http://unsplash.it/760x400?random=4">
+                                    <div class="carousel-caption">
+                                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.</p>
+                                        <a class="btn btn-primary pull-right" href="#">View</a>
+                                    </div>
+                                </div><!-- End Item -->
+
+                                <div class="item">
+                                    <img class="img-responsive" src="http://unsplash.it/760x400?random=5">
+                                    <div class="carousel-caption">
+                                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.</p>
+                                        <a class="btn btn-primary pull-right" href="#">View</a>
+                                    </div>
+                                </div><!-- End Item -->
+                                        
+                              </div><!-- End Carousel Inner -->
+
+
+                            <ul class="list-group col-sm-4">
+                              <li data-target="#news-carousel" data-slide-to="0" class="list-group-item active"><h4>Listen To This New Band</h4></li>
+                              <li data-target="#news-carousel" data-slide-to="1" class="list-group-item"><h4>An Awesome Review</h4></li>
+                              <li data-target="#news-carousel" data-slide-to="2" class="list-group-item"><h4>Celbrity Interview</h4></li>
+                              <li data-target="#news-carousel" data-slide-to="3" class="list-group-item"><h4>We Travel To New York</h4></li>
+                              <li data-target="#news-carousel" data-slide-to="4" class="list-group-item"><h4>Check Out The Latest App</h4></li>
+                            </ul>
+
+                              <!-- Controls -->
+                              <div class="carousel-controls">
+                                  <a class="left carousel-control" href="#news-carousel" data-slide="prev">
+                                    <span class="glyphicon glyphicon-chevron-left"></span>
+                                  </a>
+                                  <a class="right carousel-control" href="#news-carousel" data-slide="next">
+                                    <span class="glyphicon glyphicon-chevron-right"></span>
+                                  </a>
+                              </div>
+
+                            </div><!-- End Carousel -->
+                        <div id="about-us">
+                            <div class="row">
+                                <div class="col-lg-12 text-center wow fadeInDown">
+                                    <h2 class="section-heading"><strong>About</strong> Us</h2>
+                                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6 wow fadeInLeft">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                                </div>
+                                <div class="col-md-6 wow fadeInRight">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div id="main-sidebar" class="col-md-3 col-md-offset-1 divider-wrapper wow fadeInRight" data-wow-delay="0s">
+                        <div class="section-inner">
+                            <p>Her companions instrument set estimating sex remarkably solicitude motionless. Property men the why smallest graceful day insisted required. Inquiry justice country old placing sitting any ten age. Looking venture justice in evident in totally he do ability. Be is lose girl long of up give. Trifling wondered unpacked ye at he. In household certainty an on tolerably smallness difficult. Many no each like up be is next neat. Put not enjoyment behaviour her supposing. At he pulled object other</p>
+                        </div>
+                    </div>
+                </div>                
+            </div>
+        </div>
+    </section>
+
+    <section id="footer-widgets" class="divider-wrapper">
+        <div class="section-inner">
+            <div class="container">
+                <div class="row wow fadeInUp">
+                    <div class="widget col-md-3 col-sm-6 about-us-widget">
+                        <h4 class="widget-title"><strong>Global</strong> Coverage</h4>
+                        <p>Was drawing natural fat respect husband. An as noisy an offer drawn blush place. These tried for way joy wrote witty. In mr began music weeks after at begin.</p>
+                    </div><!--/.col-md-3-->
+
+                    <div class="widget col-md-3 col-sm-6">
+                        <h4 class="widget-title"><strong>Our</strong> Company</h4>
+                        <div>
+                            <ul class="list-unstyled widget-list">
+                                <li><a href="#">Company Overview</a></li>
+                                <li><a href="#">Meet The Team</a></li>
+                                <li><a href="#">Our Awesome Partners</a></li>
+                                <li><a href="#">Our Services</a></li>
+                            </ul>
+                        </div>
+                    </div><!--/.col-md-3-->
+
+                    <div class="widget col-md-3 col-sm-6">
+                        <h4 class="widget-title"><strong>Latest</strong> Articles</h4>
+                        <div>
+                            <div class="media">
+                                <div class="pull-left">
+                                    <img class="widget-img" src="http://unsplash.it/80/80?random=4" alt="">
+                                </div>
+                                <div class="media-body">
+                                    <span class="media-heading"><a href="#">Blog Post A</a></span>
+                                    <small class="muted">Posted 14 April 2014</small>
+                                </div>
+                            </div>
+                            <div class="media">
+                                <div class="pull-left">
+                                    <img class="widget-img" src="http://unsplash.it/80/80?random=5" alt="">
+                                </div>
+                                <div class="media-body">
+                                    <span class="media-heading"><a href="#">Blog Post B</a></span>
+                                    <small class="muted">Posted 14 April 2014</small>
+                                </div>
+                            </div>
+                        </div>  
+                    </div><!--/.col-md-3-->
+
+                    <div class="widget col-md-3 col-sm-6">
+                        <h4 class="widget-title"><strong>Come</strong> See Us</h4>
+                        <address>
+                            <strong>Ace Towers</strong><br>
+                            New York Ave,<br>
+                            New York, 215648<br>
+                            <abbr title="Phone"><i class="fa fa-phone"></i></abbr> 546 840654 05
+                        </address>
+                    </div> <!--/.col-md-3-->
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="divider-wrapper-dark">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <span class="copyright wow fadeInUp">Designed by Distinctive Themes</span>
+                </div>
+                <div class="col-md-6">
+                    <ul class="list-inline social-buttons wow fadeInUp">
+                        <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
+                        </li>
+                        <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a>
+                        </li>
+                        <li><a class="google" href="#"><i class="fa fa-google-plus"></i></a>
+                        </li>
+                        <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="assets/js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="assets/js/plugins.js"></script>
+
+    <!-- Contact Form JavaScript -->
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCWDPCiH080dNCTYC-uprmLOn2mt2BMSUk&amp;sensor=true"></script>
+    <script src="assets/js/jqBootstrapValidation.js"></script>
+    <script src="assets/js/contact_me.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="assets/js/init.js"></script>
+
+</body>
+
+</html>
