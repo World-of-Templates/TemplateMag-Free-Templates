@@ -61,3 +61,33 @@ Dashio | Good
 --- | ---
 [![Dashio](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Dashio.png)](https://template.fusionsvisual.id/TM/Dashio) | [![Good](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Good.png)](https://template.fusionsvisual.id/TM/Good)
 Bootstrap Admin Template | Bootstrap Corporate Template
+
+LinesLanding | SlideLanding
+--- | ---
+[![LinesLanding](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/LinesLanding.png)](https://template.fusionsvisual.id/TM/LinesLanding) | [![SlideLanding](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/SlideLanding.png)](https://template.fusionsvisual.id/TM/SlideLanding)
+Bootstrap Landing Page Template | Bootstrap Landing Page Template
+
+Soon | Dot
+--- | ---
+[![Soon](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Soon.png)](https://template.fusionsvisual.id/TM/Soon) | [![Dot](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Dot.png)](https://template.fusionsvisual.id/TM/Dot)
+Website Under Construction Template | Bootstrap Agency Template
+
+Freelance | Solid
+--- | ---
+[![Freelance](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Freelance.png)](https://template.fusionsvisual.id/TM/Freelance) | [![Solid](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Solid.png)](https://template.fusionsvisual.id/TM/Solid)
+Bootstrap Freelance Template | Bootstrap Business Template
+
+GadgetLanding | FlowLanding
+--- | ---
+[![GadgetLanding](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/GadgetLanding.png)](https://template.fusionsvisual.id/TM/GadgetLanding) | [![FlowLanding](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/FlowLanding.png)](https://template.fusionsvisual.id/TM/FlowLanding)
+Bootstrap Landing Page Template | Bootstrap Landing Page Template
+
+DoLanding | Diamond
+--- | ---
+[![DoLanding](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/DoLanding.png)](https://template.fusionsvisual.id/TM/DoLanding) | [![Diamond](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Diamond.png)](https://template.fusionsvisual.id/TM/Diamond)
+Bootstrap Landing Page Template | Bootstrap Business Template
+
+Basic | SumoLanding
+--- | ---
+[![Basic](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Basic.png)](https://template.fusionsvisual.id/TM/Basic) | [![SumoLanding](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/SumoLanding.png)](https://template.fusionsvisual.id/TM/SumoLanding)
+Bootstrap Personal Template | Bootstrap Landing Page Template
