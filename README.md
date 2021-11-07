@@ -91,3 +91,33 @@ Basic | SumoLanding
 --- | ---
 [![Basic](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Basic.png)](https://template.fusionsvisual.id/TM/Basic) | [![SumoLanding](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/SumoLanding.png)](https://template.fusionsvisual.id/TM/SumoLanding)
 Bootstrap Personal Template | Bootstrap Landing Page Template
+
+MinimalLanding | Instant
+--- | ---
+[![MinimalLanding](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/MinimalLanding.png)](https://template.fusionsvisual.id/TM/MinimalLanding) | [![Instant](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Instant.png)](https://template.fusionsvisual.id/TM/Instant)
+Bootstrap Landing Page Template | Bootstrap Personal Template
+
+Clean Landing | Marco
+--- | ---
+[![CleanLanding](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/CleanLanding.png)](https://template.fusionsvisual.id/TM/CleanLanding) | [![Marco](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Marco.png)](https://template.fusionsvisual.id/TM/Marco)
+Bootstrap Landing Page Template | Bootstrap Agency Template
+
+ServicesLanding | Shield
+--- | ---
+[![ServicesLanding](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/ServicesLanding.png)](https://template.fusionsvisual.id/TM/ServicesLanding) | [![Shield](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Shield.png)](https://template.fusionsvisual.id/TM/Shield)
+Bootstrap Landing Page Template | Bootstrap Agency Template
+
+WowLanding | Stanley
+--- | ---
+[![WowLanding](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/WowLanding.png)](https://template.fusionsvisual.id/TM/WowLanding) | [![Stanley](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Stanley.png)](https://template.fusionsvisual.id/TM/Stanley)
+Bootstrap Landing Page Template | Bootstrap Freelancer Template
+
+Flatty | BookLanding
+--- | ---
+[![Flatty](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Flatty.png)](https://template.fusionsvisual.id/TM/Flatty) | [![BookLanding](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/BookLanding.png)](https://template.fusionsvisual.id/TM/BookLanding)
+Bootstrap App Landing Page Template | Bootstrap Landing Page Template
+
+Bolt | ElegantLanding
+--- | ---
+[![Bolt](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Bolt.png)](https://template.fusionsvisual.id/TM/Bolt) | [![ElegantLanding](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/ElegantLanding.png)](https://template.fusionsvisual.id/TM/ElegantLanding)
+Bootstrap Agency Template | Bootstrap Landing Page Template
