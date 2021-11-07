@@ -121,3 +121,33 @@ Bolt | ElegantLanding
 --- | ---
 [![Bolt](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Bolt.png)](https://template.fusionsvisual.id/TM/Bolt) | [![ElegantLanding](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/ElegantLanding.png)](https://template.fusionsvisual.id/TM/ElegantLanding)
 Bootstrap Agency Template | Bootstrap Landing Page Template
+
+DisplayLanding | Coming
+--- | ---
+[![DisplayLanding](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/DisplayLanding.png)](https://template.fusionsvisual.id/TM/DisplayLanding) | [![Coming](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Coming.png)](https://template.fusionsvisual.id/TM/Coming)
+Bootstrap Landing Page Template | Bootstrap Under Construction Template
+
+AppLanding | GlobalLanding
+--- | ---
+[![AppLanding](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/AppLanding.png)](https://template.fusionsvisual.id/TM/AppLanding) | [![GlobalLanding](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/GlobalLanding.png)](https://template.fusionsvisual.id/TM/GlobalLanding)
+Bootstrap App Landing Page Template | Bootstrap Landing Page Template
+
+Link | WriterLanding
+--- | ---
+[![Link](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Link.png)](https://template.fusionsvisual.id/TM/Link) | [![WriterLanding](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/WriterLanding.png)](https://template.fusionsvisual.id/TM/WriterLanding)
+Bootstrap Agency Template | Bootstrap Landing Page Template
+
+Spot | PersonalLanding
+--- | ---
+[![Spot](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Spot.png)](https://template.fusionsvisual.id/TM/Spot) | [![PersonalLanding](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/PersonalLanding.png)](https://template.fusionsvisual.id/TM/PersonalLanding)
+Bootstrap Freelancer Template | Bootstrap Landing Page Template
+
+Merit | Minimal
+--- | ---
+[![Merit](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Merit.png)](https://template.fusionsvisual.id/TM/Merit) | [![Minimal](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Minimal.png)](https://template.fusionsvisual.id/TM/Minimal)
+Bootstrap Agency Template | Bootstrap Template
+
+NexusLanding | NewFirm
+--- | ---
+[![NexusLanding](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/NexusLanding.png)](https://template.fusionsvisual.id/TM/NexusLanding) | [![NewFirm](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/NewFirm.png)](https://template.fusionsvisual.id/TM/NewFirm)
+Bootstrap Landing Page Template | Bootstrap Business Template
