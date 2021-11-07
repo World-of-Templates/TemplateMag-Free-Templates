@@ -31,3 +31,33 @@ Confetti | Impact
 --- | ---
 [![Confetti](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Confetti.png)](https://template.fusionsvisual.id/TM/Confetti) | [![Impact](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Impact.png)](https://template.fusionsvisual.id/TM/Impact)
 Bootstrap Wedding Template | Multipurpose Responsive Template
+
+Jack | Scholar
+--- | ---
+[![Jack](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Jack.png)](https://template.fusionsvisual.id/TM/Jack) | [![Scholar](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Scholar.png)](https://template.fusionsvisual.id/TM/Scholar)
+Clean Modern Blogging & Photography Bootstrap Template | Flexible Education Bootstrap Template
+
+Mineem | Uneek
+--- | ---
+[![Mineem](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Mineem.png)](https://template.fusionsvisual.id/TM/Mineem) | [![Uneek](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Uneek.png)](https://template.fusionsvisual.id/TM/Uneek)
+Clean Minimal Modern PortFolio & Blog Template | Clean Blog/Portfolio Template
+
+MaxiBiz | GoodLanding
+--- | ---
+[![MaxiBiz](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/MaxiBiz.png)](https://template.fusionsvisual.id/TM/MaxiBiz) | [![GoodLanding](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/GoodLanding.png)](https://template.fusionsvisual.id/TM/GoodLanding)
+Bootstrap Business Website Template | Bootstrap Landing Page Template
+
+Polaroyd | FoodLanding
+--- | ---
+[![Polaroyd](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Polaroyd.png)](https://template.fusionsvisual.id/TM/Polaroyd) | [![FoodLanding](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/FoodLanding.png)](https://template.fusionsvisual.id/TM/FoodLanding)
+Bootstrap Agency Template | Bootstrap Landing Page Template
+
+Opening | Studio
+--- | ---
+[![Opening](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Opening.png)](https://template.fusionsvisual.id/TM/Opening) | [![Studio](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Studio.png)](https://template.fusionsvisual.id/TM/Studio)
+Website Under Construction Template | Bootstrap Agency Template
+
+Dashio | Good
+--- | ---
+[![Dashio](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Dashio.png)](https://template.fusionsvisual.id/TM/Dashio) | [![Good](https://raw.githubusercontent.com/World-of-Templates/TemplateMag-Free-Templates/main/zSupportImages/Good.png)](https://template.fusionsvisual.id/TM/Good)
+Bootstrap Admin Template | Bootstrap Corporate Template
